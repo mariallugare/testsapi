@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+venv/
+*.pyc
+dist/
+restful_booker_api_tests.egg-info/
+
+# Docker
+.dockerignore
+
+# Allure Reports
+allure_result_folder
+assets
+
+# IDE files
+.idea/
+.vscode/
+
+# Miscellaneous
+report.html
